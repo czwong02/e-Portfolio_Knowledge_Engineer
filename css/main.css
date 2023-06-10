@@ -3283,6 +3283,11 @@ input::-moz-focus-inner {
   display: inline-block;
 }
 
+.contact-add p {
+  font-size: medium;
+  
+}
+
 .contact-main a:hover,
 .contact-main a:focus,
 .contact-main a:active {
